@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Redgerd or M.Salaar of MCS-NUST-pk.
+- 👋 Hi, I’m @Redgerd or M.Salaar I statred my journey in Ocober 2022 at MCS-NUST-pk.
 - 👀 I’m interested in logical aspect of codeing.
 - 🌱 I’m currently learning C++ & Python on basic level.
 - 💞️ I’m looking to collaborate on databases & web-devlopment in the near future.
