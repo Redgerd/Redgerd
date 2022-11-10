@@ -1,0 +1,19 @@
+#include<cmath>
+#include<iostream>
+using namespace std;
+int main ()
+{
+	int a,b;
+	cout<<"Enter thr First Number: ";
+	cin>>a;
+	cout<<"Enter thr Second Number: ";
+	cin>>b;
+	if(a>b)
+	{
+	cout<<"First number is greater";
+	}
+	else
+	{
+	cout<<"second number is greater";	
+	}
+}
