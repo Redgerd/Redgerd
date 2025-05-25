@@ -13,7 +13,7 @@ I am a **Computer Science** student, almost through my degree, I am expanding my
   - *Docker*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also photography 📷 
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and also photography 📷 
 - 📫 Reach out to me at: <a href="msalaarma@gmail.com">msalaarma@gmail.com</a>
 <br>
 
