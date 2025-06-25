@@ -9,7 +9,7 @@
 
 I am a **Computer Science** student, almost through my degree, I am expanding my knowledge in both back-end and data engineering. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
-  - *TypeScript*
+  - *Data Modeling*
   - *Docker*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
