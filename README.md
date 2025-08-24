@@ -36,7 +36,6 @@ I enjoy solving complex system problems, optimizing pipelines end-to-end, and le
 ###### Database & Storage:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300BFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ###### Data Visualization & BI:
