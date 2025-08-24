@@ -13,12 +13,6 @@ I enjoy solving complex system problems, optimizing pipelines end-to-end, and le
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and also photography 📷 
 - 📫 Reach out to me at: <a href="msalaarma@gmail.com">msalaarma@gmail.com</a>
 <br>
-
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Redgerd&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
 </div>    
 
 
