@@ -4,13 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+I enjoy solving complex system problems, optimizing pipelines end-to-end, and learning the evolving landscape of data + AI infrastructure
 
-I am a **Computer Science** student, almost through my degree, I am expanding my knowledge in both back-end and data engineering. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
   - *Data Modeling*
-  - *Docker*
-- 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
+  - *Bash*
+
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and also photography 📷 
 - 📫 Reach out to me at: <a href="msalaarma@gmail.com">msalaarma@gmail.com</a>
 <br>
@@ -26,28 +25,29 @@ I am a **Computer Science** student, almost through my degree, I am expanding my
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###### Languages:
+###### Languages & Scripting:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-###### Backend & Frontend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C8FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-###### Deployment & Cloud Services:
-![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-%230072C6.svg?style=for-the-badge&logo=azuredatabricks&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23ED1C24.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+###### Data Engineering & Big Data:
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23003549.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
-###### Database Management:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+###### Cloud & Deployment:
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+###### Database & Storage:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300BFFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-FF6F00.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+###### Data Visualization & BI:
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 
